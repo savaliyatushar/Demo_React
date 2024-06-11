@@ -1,0 +1,43 @@
+.quotation {
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
+  /* height: 100vh;  */
+  /* width: 100%; */
+}
+
+.quote-icon {
+  font-size: 165px;
+  color: #edf1f3; /* Adjust this value as needed */
+  margin-bottom: 0% !important;
+}
+.review-item blockquote {
+    font-size: 2.4em;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+.stars-color{
+   color: #476978 !important;
+}
+
+
+
+
+.swiper {
+    background-color: white !important;
+}
+.custom-carousel-review .carousel-indicators {
+  bottom: -50px !important; /* Adjust this value to move the indicators down */
+}
+.custom-carousel-review .carousel-indicators button {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #000; /* Adjust color as needed */
+}
+
+/* Change the active indicator style */
+.custom-carousel-review .carousel-indicators .active {
+  background-color: #fff; /* Adjust color as needed */
+}

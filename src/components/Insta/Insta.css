@@ -1,0 +1,30 @@
+
+#insta .product-store {
+  padding-top: 200px !important;
+}
+.padding-large{
+    padding-top: 5em !important;
+    padding-bottom: 2em !important;
+}
+#insta .no-gutters {
+  margin-right: -16px;
+  margin-left: -16px;
+  margin-top: 1.5rem;
+}
+
+#insta .no-gutters > [className*='col-'] {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+#insta img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+
+.instanav{
+    height: 480px !important;
+}

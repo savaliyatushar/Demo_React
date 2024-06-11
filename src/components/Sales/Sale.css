@@ -1,0 +1,10 @@
+.bak-color{
+ height: 500px !important;
+ background-color:#edf1f3;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    width: 665px !important;
+}

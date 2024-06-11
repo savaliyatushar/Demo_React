@@ -1,0 +1,26 @@
+.icon-with-count {
+  display: flex;
+  align-items: center;
+}
+/* background rounded */
+.cricle {
+  display: inline-block;
+  width: 18px; /* Adjust the size as needed */
+  height: 18px; /* Adjust the size as needed */
+  border-radius: 50%;
+  background-color: #000000; /* Adjust the background color as needed */
+ 
+  text-align: center;
+  
+  font-size: 14px;
+    
+}
+/* .logo{
+  width: 150px !important ;
+} */
+
+
+.dropdown-item.active{
+  background-color: white !important;
+  color: black !important;
+}

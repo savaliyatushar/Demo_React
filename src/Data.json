@@ -1,0 +1,112 @@
+{
+  "all": [
+    {
+      "id": 1,
+      "category": "phones",
+      "title": "iPhone 13",
+      "price": 999.99,
+      "img": "https://demo.templatesjungle.com/ministore/images/product-item1.jpg"
+    },
+    {
+      "id": 2,
+      "category": "accessories",
+      "title": "AirPods Pro",
+      "price": 249.99,
+      "img": "https://example.com/images/airpodspro.jpg"
+    },
+    {
+      "id": 3,
+      "category": "tablets",
+      "title": "iPad Pro",
+      "price": 799.99,
+      "img": "https://example.com/images/ipadpro.jpg"
+    },
+    {
+      "id": 4,
+      "category": "watches",
+      "title": "Apple Watch Series 7",
+      "price": 399.99,
+      "img": "https://example.com/images/applewatch7.jpg"
+    }
+  ],
+  "phones": [
+    {
+      "id": 1,
+      "title": "iPhone 13",
+      "price": 999.99,
+      "img": "https://example.com/images/iphone13.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Samsung Galaxy S21",
+      "price": 799.99,
+      "img": "https://example.com/images/galaxys21.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Google Pixel 6",
+      "price": 599.99,
+      "img": "https://example.com/images/pixel6.jpg"
+    }
+  ],
+  "accessories": [
+    {
+      "id": 2,
+      "title": "AirPods Pro",
+      "price": 249.99,
+      "img": "https://example.com/images/airpodspro.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Samsung Galaxy Buds",
+      "price": 129.99,
+      "img": "https://example.com/images/galaxybuds.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Google Pixel Buds",
+      "price": 179.99,
+      "img": "https://example.com/images/pixelbuds.jpg"
+    }
+  ],
+  "tablets": [
+    {
+      "id": 3,
+      "title": "iPad Pro",
+      "price": 799.99,
+      "img": "https://example.com/images/ipadpro.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Samsung Galaxy Tab S7",
+      "price": 649.99,
+      "img": "https://example.com/images/galaxytabs7.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Microsoft Surface Pro 7",
+      "price": 899.99,
+      "img": "https://example.com/images/surfacepro7.jpg"
+    }
+  ],
+  "watches": [
+    {
+      "id": 4,
+      "title": "Apple Watch Series 7",
+      "price": 399.99,
+      "img": "https://example.com/images/applewatch7.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Samsung Galaxy Watch 4",
+      "price": 299.99,
+      "img": "https://example.com/images/galaxywatch4.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Fitbit Versa 3",
+      "price": 229.99,
+      "img": "https://example.com/images/fitbitversa3.jpg"
+    }
+  ]
+}

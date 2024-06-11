@@ -1,0 +1,90 @@
+.product-store{
+    height: 711px !important;
+}
+/* M-products-nav.css */
+
+.custom-carousel .carousel-indicators {
+  bottom: -60px !important; /* Adjust this value to move the indicators down */
+}
+.custom-carousel .carousel-indicators button {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #000; /* Adjust color as needed */
+}
+.carousel-item.lines{
+background-color: white !important; /*product card bg color*/
+}
+/* Change the active indicator style */
+.custom-carousel .carousel-indicators .active {
+  background-color: #fff; /* Adjust color as needed */
+}
+
+.display-header {
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+/* Ensure the padding and margins are responsive */
+.padding-large {
+  padding: 2rem;
+}
+
+@media (max-width: 768px) {
+  .padding-large {
+    padding: 1rem;
+  }
+
+  .display-header h4 {
+    font-size: 1.25rem;
+  }
+
+  .display-header .me-2 {
+    margin-top: 1rem;
+  }
+}
+
+.w-25{
+  width: 100px !important;
+  height: 25px !important;
+}
+
+/* src/App.css */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

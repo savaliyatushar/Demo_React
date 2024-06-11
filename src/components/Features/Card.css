@@ -1,0 +1,47 @@
+img, svg {
+    vertical-align: middle !important;
+    size: 20px;
+}
+
+h3.card-title {
+font-size: 1.2em !important;
+}
+.text-primary{
+    color: black !important;
+}
+.ioncart svg {
+    color:#72aec8 !important;
+    height: 26px !important;
+    width: 26px !important;
+    /* padding-bottom: 18px !important; */
+}
+.text-uppercase{
+    text-transform: uppercase !important;
+}
+svg {
+        vertical-align: middle !important;
+}
+p.text{
+   color: #aeaeae !important;
+   
+}
+.text-part{
+    width: 264px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

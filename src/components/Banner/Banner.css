@@ -1,0 +1,109 @@
+/* prev-icon and next icon */
+.carousel-control-prev-icon{
+      filter: invert(0) grayscale(100) !important 
+}
+.carousel-control-next-icon{
+      filter: invert(0) grayscale(100) !important
+
+}
+.carousel-indicators .active {
+    opacity: 1 !important;
+    background-color: black !important;
+    color: white !important;
+}
+
+/* img background color */
+.carousel-item{
+    background-color: #edf1f3 !important
+}
+
+/* img  */
+img{
+float: right !important;
+}
+
+
+[data-bs-theme=dark] .carousel .carousel-caption, [data-bs-theme=dark].carousel .carousel-caption{
+    justify-content:start !important;
+    color: rgb(0, 0, 0) !important;
+    
+}
+.carousel-caption {
+    position: absolute;
+    height: 90px !important;
+    left: 15% !important;
+    top: 10.25rem !important;
+    padding: 0% !important;
+    text-align: start !important;
+}
+.section-1{
+    width: 435px;
+    margin-top: 25px;
+}
+h3{
+      line-height:  height 4.5em !important;
+      text-transform: uppercase;
+      font-size: 4.1rem !important;
+      width: 600px !important;
+      font-family: var(--body-font) !important;
+      font-weight: 300 !important;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Responsive styles */
+@media (max-width: 575.98px) {
+  /* Extra small devices (portrait phones, less than 576px) */
+  .h1 {
+    font-size: 1.5rem;
+  }
+  .section-1 {
+    text-align: center;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* Small devices (landscape phones, 576px and up) */
+  .h1 {
+    font-size: 2rem;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* Medium devices (tablets, 768px and up) */
+  .h1 {
+    font-size: 2.25rem;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /* Large devices (desktops, 992px and up) */
+  .h1 {
+    font-size: 2.5rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  /* Extra large devices (large desktops, 1200px and up) */
+  .h1 {
+    font-size: 2.5rem;
+  }
+}
+
+@media (min-width: 1400px) {
+  /* Extra extra large devices (larger desktops, 1400px and up) */
+  .h1 {
+    font-size: 2.75rem;
+  }
+}
